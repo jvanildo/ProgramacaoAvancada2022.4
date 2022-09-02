@@ -1,0 +1,1 @@
+serve para tratar erros onde o catch funciona como um continue e seu codigo não quebra
