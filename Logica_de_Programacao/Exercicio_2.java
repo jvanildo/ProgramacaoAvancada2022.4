@@ -1,3 +1,4 @@
+package Logica_de_Programacao;
 import java.util.Scanner;
 
 // Escreva um programa que leia o número de um funcionário, seu número de horas

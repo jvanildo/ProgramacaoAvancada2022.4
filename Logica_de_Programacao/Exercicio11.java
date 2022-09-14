@@ -1,3 +1,4 @@
+package Logica_de_Programacao;
 import java.util.Scanner;
 
 public class Exercicio11 {

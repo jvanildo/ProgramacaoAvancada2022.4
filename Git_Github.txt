@@ -1,0 +1,27 @@
+Git - Github
+
+Transformar o arquivo em um reporsitorio: 
+  -> comando ( git init);
+
+Para registrar todas as alterações no git :
+ -> comando (git add nome.tipo do arquivo);
+
+Para reegistrar todos os arquivos no repositorio:
+ -> Comando (git add .)
+
+Para registrar as alterações do repositorio:
+ -> Comando (git commit -m "escreva a mensagem" )
+
+Para regitrar a modificação mais uma menssagem:
+ -> Comando (git commit -am "comenta a alteração")
+
+Exibir o resumo de comits pelo mais recente:
+ - > comando (git log -n 1 --oneline)
+
+Descrever as aterações do arquivo detalhadamente:
+ - > Comando (git diff nomedoarquivo.txt)
+
+
+
+
+

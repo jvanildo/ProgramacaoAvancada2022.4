@@ -1,3 +1,4 @@
+package Logica_de_Programacao;
 import java.util.Scanner;
 // Faça um programa que leia do teclado três valores inteiros e exiba o maior e
 // menor entre eles.

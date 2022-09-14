@@ -1,3 +1,4 @@
+package Logica_de_Programacao;
 import java.util.Scanner;
 
 // Leia 2 valores de ponto flutuante de dupla precisão A e B, que correspondem a 2

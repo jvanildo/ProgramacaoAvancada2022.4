@@ -1,3 +1,4 @@
+package Logica_de_Programacao;
 import java.util.Scanner;
 // Faça um programa que lê o nome de um vendedor, o seu salário fixo e o total de
 // vendas efetuadas por ele no mês (em dinheiro). Sabendo que este vendedor ganha
