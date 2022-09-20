@@ -6,7 +6,7 @@ public class Exercicio25 {
     public static void main(String[] args) {
         int a,b,c,d,e;
         Scanner sc =new Scanner(System.in);
-        System.out.println("Digite 1 se tem o requisito e zero se nao tiver: ");
+        System.out.println("Digite 1 se tem o requisito e zero (0) se não tiver: ");
         System.out.println("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~");
         System.out.println("Tem Interface grafica? (digite 1 ou 0) ");
         a = sc.nextInt();
@@ -19,6 +19,16 @@ public class Exercicio25 {
         System.out.println("Tem Uso de Structs? (digite 1 ou 0)");
         e = sc.nextInt();
 
-        if ((a = 0)&(b=0)){}
+        if ((a == 0) & (b == 0)){
+            System.out.println("Trabalho não Aceito!!");
+        }else if((c == 0) & (d ==0)){
+            System.out.println("Trabalho não Aceito!!");
+        }else if((e == 0)){
+            System.out.println("Trabalho não Aceito!!");
+        }else{
+            System.out.println("Trabalho Aceito!!");
+        };
+
+        sc.close();
     }
 }
