@@ -1,6 +1,6 @@
 package Logica_de_Programacao;
 
-public class Exercicio29 {
+public class Exercicio29duvida {
     public static void main(String[] args) {
         int j=60, i=1;
         System.out.print("i="+i+"  j=");
