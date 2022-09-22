@@ -1,0 +1,259 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Exercicio36",
+            "request": "launch",
+            "mainClass": "Logica_de_Programacao.Exercicio36",
+            "projectName": "ProgramacaoAvancada2022.4_88fc573f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercicio34",
+            "request": "launch",
+            "mainClass": "Logica_de_Programacao.Exercicio34",
+            "projectName": "ProgramacaoAvancada2022.4_88fc573f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercicio10",
+            "request": "launch",
+            "mainClass": "Logica_de_Programacao.Exercicio10",
+            "projectName": "ProgramacaoAvancada2022.4_88fc573f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercicio11",
+            "request": "launch",
+            "mainClass": "Logica_de_Programacao.Exercicio11",
+            "projectName": "ProgramacaoAvancada2022.4_88fc573f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercicio12",
+            "request": "launch",
+            "mainClass": "Logica_de_Programacao.Exercicio12",
+            "projectName": "ProgramacaoAvancada2022.4_88fc573f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercicio13",
+            "request": "launch",
+            "mainClass": "Logica_de_Programacao.Exercicio13",
+            "projectName": "ProgramacaoAvancada2022.4_88fc573f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercicio14",
+            "request": "launch",
+            "mainClass": "Logica_de_Programacao.Exercicio14",
+            "projectName": "ProgramacaoAvancada2022.4_88fc573f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercicio15",
+            "request": "launch",
+            "mainClass": "Logica_de_Programacao.Exercicio15",
+            "projectName": "ProgramacaoAvancada2022.4_88fc573f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercicio16",
+            "request": "launch",
+            "mainClass": "Logica_de_Programacao.Exercicio16",
+            "projectName": "ProgramacaoAvancada2022.4_88fc573f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercicio17",
+            "request": "launch",
+            "mainClass": "Logica_de_Programacao.Exercicio17",
+            "projectName": "ProgramacaoAvancada2022.4_88fc573f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercicio18",
+            "request": "launch",
+            "mainClass": "Logica_de_Programacao.Exercicio18",
+            "projectName": "ProgramacaoAvancada2022.4_88fc573f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercicio19",
+            "request": "launch",
+            "mainClass": "Logica_de_Programacao.Exercicio19",
+            "projectName": "ProgramacaoAvancada2022.4_88fc573f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercicio20",
+            "request": "launch",
+            "mainClass": "Logica_de_Programacao.Exercicio20",
+            "projectName": "ProgramacaoAvancada2022.4_88fc573f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercicio21",
+            "request": "launch",
+            "mainClass": "Logica_de_Programacao.Exercicio21",
+            "projectName": "ProgramacaoAvancada2022.4_88fc573f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercicio23",
+            "request": "launch",
+            "mainClass": "Logica_de_Programacao.Exercicio23",
+            "projectName": "ProgramacaoAvancada2022.4_88fc573f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercicio24",
+            "request": "launch",
+            "mainClass": "Logica_de_Programacao.Exercicio24",
+            "projectName": "ProgramacaoAvancada2022.4_88fc573f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercicio25",
+            "request": "launch",
+            "mainClass": "Logica_de_Programacao.Exercicio25",
+            "projectName": "ProgramacaoAvancada2022.4_88fc573f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercicio26",
+            "request": "launch",
+            "mainClass": "Logica_de_Programacao.Exercicio26",
+            "projectName": "ProgramacaoAvancada2022.4_88fc573f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercicio27",
+            "request": "launch",
+            "mainClass": "Logica_de_Programacao.Exercicio27",
+            "projectName": "ProgramacaoAvancada2022.4_88fc573f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercicio28",
+            "request": "launch",
+            "mainClass": "Logica_de_Programacao.Exercicio28",
+            "projectName": "ProgramacaoAvancada2022.4_88fc573f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercicio29duvida",
+            "request": "launch",
+            "mainClass": "Logica_de_Programacao.Exercicio29duvida",
+            "projectName": "ProgramacaoAvancada2022.4_88fc573f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercicio30",
+            "request": "launch",
+            "mainClass": "Logica_de_Programacao.Exercicio30",
+            "projectName": "ProgramacaoAvancada2022.4_88fc573f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercicio31",
+            "request": "launch",
+            "mainClass": "Logica_de_Programacao.Exercicio31",
+            "projectName": "ProgramacaoAvancada2022.4_88fc573f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercicio32",
+            "request": "launch",
+            "mainClass": "Logica_de_Programacao.Exercicio32",
+            "projectName": "ProgramacaoAvancada2022.4_88fc573f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercicio33",
+            "request": "launch",
+            "mainClass": "Logica_de_Programacao.Exercicio33",
+            "projectName": "ProgramacaoAvancada2022.4_88fc573f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercicio5",
+            "request": "launch",
+            "mainClass": "Logica_de_Programacao.Exercicio5",
+            "projectName": "ProgramacaoAvancada2022.4_88fc573f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercicio6",
+            "request": "launch",
+            "mainClass": "Logica_de_Programacao.Exercicio6",
+            "projectName": "ProgramacaoAvancada2022.4_88fc573f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercicio7",
+            "request": "launch",
+            "mainClass": "Logica_de_Programacao.Exercicio7",
+            "projectName": "ProgramacaoAvancada2022.4_88fc573f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercicio8",
+            "request": "launch",
+            "mainClass": "Logica_de_Programacao.Exercicio8",
+            "projectName": "ProgramacaoAvancada2022.4_88fc573f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercicio9",
+            "request": "launch",
+            "mainClass": "Logica_de_Programacao.Exercicio9",
+            "projectName": "ProgramacaoAvancada2022.4_88fc573f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercicio_1",
+            "request": "launch",
+            "mainClass": "Logica_de_Programacao.Exercicio_1",
+            "projectName": "ProgramacaoAvancada2022.4_88fc573f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercicio_2",
+            "request": "launch",
+            "mainClass": "Logica_de_Programacao.Exercicio_2",
+            "projectName": "ProgramacaoAvancada2022.4_88fc573f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercicio_3",
+            "request": "launch",
+            "mainClass": "Logica_de_Programacao.Exercicio_3",
+            "projectName": "ProgramacaoAvancada2022.4_88fc573f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercicio_4",
+            "request": "launch",
+            "mainClass": "Logica_de_Programacao.Exercicio_4",
+            "projectName": "ProgramacaoAvancada2022.4_88fc573f"
+        },
+        {
+            "type": "java",
+            "name": "Launch App",
+            "request": "launch",
+            "mainClass": "Poo.App",
+            "projectName": "ProgramacaoAvancada2022.4_88fc573f"
+        }
+    ]
+}
