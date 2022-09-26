@@ -9,7 +9,7 @@ public class Exercicio36 {
         System.out.println("Quantos HO tem ? ");
         x = sc.nextInt();
         if (x !=0){
-        for (int i = 0; i < x; i++) {
+        for (int i = 0; i < x -1; i++) {
             System.out.print("HO");
             System.out.println(" ");
         }
