@@ -4,22 +4,25 @@ import java.util.Scanner;
 
 public class Exercicio40 {
     public static void main(String[] args) {
-        int a,b,c;
+        int x,y,z;
         Scanner sc = new Scanner(System.in);
 
-        System.out.println("Digite o lado A do triangulo: ");
-        a = sc.nextInt();
-        System.out.println("Digite o lado B do triangulo: ");
-        b = sc.nextInt();
-        System.out.println("Digite o lado C do triangulo: ");
-        c = sc.nextInt();
+        System.out.println("Digite o lado X do triangulo: ");
+        x = sc.nextInt();
+        System.out.println("Digite o lado Y do triangulo: ");
+        y = sc.nextInt();
+        System.out.println("Digite o lado Z do triangulo: ");
+        z = sc.nextInt();
 
-        if ((a == b)&(a == c)){
+        if ((x == y)&(x == z)){
             System.out.println("Triangulo equilatero!");
         }
-        else if ((a+b==c) & (a+c==b) &(b+c!=a)){
-            System.out.println("Triangulo ");
+        else if ((x+y==z) & (x+z==y) &(y+z!=x)){
+            System.out.println("Triangulo isóscelos! ");
         }
-        
+        else if ((x+y!=z)& (x+z!=y)&(y+z!=x)){
+            System.out.println("Triangulo escaleno! ");
+        }
+        sc.close();
     }
 }

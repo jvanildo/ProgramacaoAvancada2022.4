@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Exercicio41",
+            "request": "launch",
+            "mainClass": "Logica_de_Programacao.Exercicio41",
+            "projectName": "ProgramacaoAvancada2022.4_88fc573f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercicio40",
+            "request": "launch",
+            "mainClass": "Logica_de_Programacao.Exercicio40",
+            "projectName": "ProgramacaoAvancada2022.4_88fc573f"
+        },
+        {
+            "type": "java",
             "name": "Launch Exercicio39",
             "request": "launch",
             "mainClass": "Logica_de_Programacao.Exercicio39",
