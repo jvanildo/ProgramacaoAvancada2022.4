@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Exercicio1",
+            "request": "launch",
+            "mainClass": "Poo.Exercicio1",
+            "projectName": "ProgramacaoAvancada2022.4_88fc573f"
+        },
+        {
+            "type": "java",
             "name": "Launch Exercicio41",
             "request": "launch",
             "mainClass": "Logica_de_Programacao.Exercicio41",

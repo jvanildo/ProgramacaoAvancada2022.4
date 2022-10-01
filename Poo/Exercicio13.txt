@@ -1,0 +1,3 @@
+ visibilidade – tipo de permissão ao método. 
+ retorno – tipo de retorno do método ou void caso não tenha retorno. 
+ parâmetros – atributos utilizados dentro do processamento do método

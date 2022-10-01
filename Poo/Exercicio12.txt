@@ -1,0 +1,2 @@
+A) Classe: serve para criarmos uma representacao do mundo real
+B) Objeto: colocamos as carcateristicas daquilo que vamos representar
